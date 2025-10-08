@@ -19,7 +19,7 @@ I also focus on **Data Architecture 🏗️** for enterprise-level solutions, en
 
 When I’m not knee-deep in data or AI, you’ll find me:
 
-- ✈️ Traveling and exploring up new cultures (hello, adventures!)  
+- ✈️ Traveling and exploring up new cultures 
 - ⚾ Cheering on my favorite baseball team with lots of enthusiasm  
 - 🎨 Getting inspired by beautiful art at galleries  
 - ☕ Hunting down the cutes cafes and savoring perfect coffee moments  
