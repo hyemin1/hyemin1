@@ -1,33 +1,33 @@
-# Hi, I'm Hyemin 👋
+# Hi, I'm Hyemin 🌸🌸🌸
 
-I specialize in **Artificial Intelligence**, with extensive experience applying cutting-edge AI techniques to solve real-world problems.
+I specialize in **Artificial Intelligence 🤖**, with extensive experience applying cutting-edge AI techniques to solve real-world problems 🌟.
 
-I also focus on **Data Architecture** for enterprise-level solutions, ensuring scalable, reliable, and efficient data workflows that empower teams and organizations.
-
----
-
-### What I do
-
-- Apply AI/ML solutions to enhance business outcomes  
-- Keep pace with evolving AI trends and technologies  
-- Design and manage enterprise data architectures and pipelines  
-- Collaborate with cross-functional teams to deliver robust data platforms  
+I also focus on **Data Architecture 🏗️** for enterprise-level solutions, ensuring scalable, reliable, and efficient data workflows that empower teams and organizations 📊.
 
 ---
 
-### A bit about me
+### What I do 💕
 
-When I’m not architecting data solutions or exploring AI, I enjoy:
-
-- ✈️ Traveling to new places and experiencing different cultures  
-- ⚾ Watching baseball games — always rooting for my favorite team  
-- 🎨 Visiting art galleries and soaking up creativity  
-- ☕ Exploring new cafes and discovering the perfect cup of coffee  
-- 🍷🍽️ Discovering new wine bars and trying innovative, exciting foods  
+- Apply AI/ML solutions 🤖 to enhance business outcomes 💼  
+- Keep pace with evolving AI trends and technologies ⚙️  
+- Design and manage enterprise data architectures and pipelines 🏗️  
+- Collaborate with cross-functional teams 🤝 to deliver robust data platforms  
 
 ---
 
-### Find me around the web
+### A bit about me 💕
+
+When I’m not knee-deep in data or AI, you’ll find me:
+
+- ✈️ Traveling and exploring up new cultures (hello, adventures!)  
+- ⚾ Cheering on my favorite baseball team with lots of enthusiasm  
+- 🎨 Getting inspired by beautiful art at galleries  
+- ☕ Hunting down the cutes cafes and savoring perfect coffee moments  
+- 🍷🍽️ Exploring cozy wine bars and tasting exciting, innovative foods  
+
+---
+
+### Find me around the web 💕
 
 - [LinkedIn](https://www.linkedin.com/in/hyemin-kim-01a528267/)  
 - [Blog](https://medium.com/@khyemin)  
