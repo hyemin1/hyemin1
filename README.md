@@ -1,4 +1,4 @@
-#Hi, I'm Hyemin🌸
+# Hi, I'm Hyemin🌸
 
 I specialize in **Artificial Intelligence**, with experience applying cutting-edge AI techniques to solve real-world problems .
 
@@ -6,7 +6,7 @@ I also focus on **Data Architecture** for enterprise-level solutions, ensuring s
 
 ---
 
-##What I do🌸
+## What I do🌸
 
 - Apply AI/ML solutions to enhance business outcomes
 - Keep pace with evolving AI trends and technologies 
